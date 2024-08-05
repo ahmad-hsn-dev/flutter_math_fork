@@ -1,7 +1,7 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_math_fork/src/widgets/selection/gesture_detector_builder.dart';
 
-import 'gesture_detector_builder.dart';
 import 'overlay_manager.dart';
 
 class SelectableMathSelectionGestureDetectorBuilder
